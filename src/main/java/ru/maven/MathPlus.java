@@ -1,4 +1,4 @@
-package src.main.java.ru.apache_maven;
+package src.main.java.ru.maven;
 
 public class MathPlus {
 
